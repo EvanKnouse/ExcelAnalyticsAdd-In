@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\CST220CST227AssignmentManifest.xml
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227Assignment\bin\Debug\CST220CST227Assignment.debugapp

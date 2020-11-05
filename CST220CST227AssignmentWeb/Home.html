@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <title>Excel Add-In with Commands</title>
+
+    <script src="Scripts/jquery-3.4.1.js" type="text/javascript"></script>
+    <script src="Scripts/MessageBanner.js" type="text/javascript"></script>
+    <script src="https://appsforoffice.microsoft.com/lib/1/hosted/office.js" type="text/javascript"></script>
+    <script src="https://cdn.jsdelivr.net/npm/regression@2.0.1/dist/regression.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/7.0.0/math.min.js" type="text/javascript"></script>
+    <script src="Home.js" type="text/javascript"></script>
+    <link href="Home.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/Button.css" rel="stylesheet" type="text/css" />
+    <link href="../Content/MessageBanner.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://static2.sharepointonline.com/files/fabric/office-ui-fabric-core/9.6.0/css/fabric.min.css">
+
+</head>
+
+<body class="ms-Fabric" dir="ltr">
+    <div id="content-main">
+        <div class="padding">
+
+            <div class="ms-font-xxl ms-fontColor-neutralSecondary ms-fontWeight-semilight">Regression</div>
+            <br />
+            <div class="ms-font-xl ms-fontColor-neutralTertiary">Choose Your Regression Type</div>
+            <p class="ms-font-m-plus ms-fontColor-neutralTertiary" id="template-description"></p>
+
+            <!--Radio buttons for selecting a regression type-->
+            <form id="regressionForm">
+                <label for="linear">Linear</label>
+                <input type="radio" id="linear" name="radioOpt" checked />
+                <label for="exponential">Exponential</label>
+                <input type="radio" id="exponential" name="radioOpt" />
+                <label for="logarithmic">Logarithmic</label>
+                <input type="radio" id="logarithmic" name="radioOpt" />
+                <label for="power">Power</label>
+                <input type="radio" id="power" name="radioOpt" />
+                <label for="polynomial">Polynomial</label>
+                <input type="radio" id="polynomial" name="radioOpt" />
+            </form>
+            <br />
+            <!--Order input box for use in polynomial regression-->
+            <div id="order" style="display: none">
+                Order:
+                <input type="number" id="orderBox" min="1" max="10" />
+                <br />
+                <span id="orderError" style="display: none; color: red">Order must be between 1 and 10</span>
+            </div>
+
+            <br />
+
+            <button class="Button Button--primary" id="regression-button" style="color:white; font: bold">
+                Run Regression
+            </button>
+            <br />
+            <span id="tableError" style="color:red; display: none">Unable to proccess. Your dataset contains invalid or empty data. </span>
+            <br />
+
+            <div class="ms-font-xxl ms-fontColor-neutralSecondary ms-fontWeight-semilight">Integrate Your Function</div>
+            <br />
+            <div class="ms-font-xl ms-fontColor-neutralTertiary">Choose Your Bounds & Precision</div>
+            <p class="ms-font-m-plus ms-fontColor-neutralTertiary" id="template-description"></p>
+
+            <form>
+                <label for="lowerBound">Lower Bound:</label><br />
+                <input type="number" id="lowerBound" name="lowerBound" /><br />
+                <span id="lowerError" style="display: none; color: red">Lowerbound cannot be outside the domain</span>
+                <br />
+                <label for="upperBound">Upper Bound:</label><br />
+                <input type="number" id="upperBound" name="upperBound" /><br />
+                <span id="upperError" style="display: none; color: red">Upperbound cannot be outside the domain</span>
+                <br />
+                <!-- Precision will be implemented in a later version
+                <label for="precision">Precision:</label><br />
+                <input type="number" id="precision" name="precision" min="0.1" max="0.0001" /><br />
+                <span id="precisionError" style="display: none; color: red">Precision must be between 0.1 and 0.0001</span>-->
+                <br />
+            </form>
+            <br />
+
+            <button class="Button Button--primary" id="integrate-button" style="color:white; font: bold">
+                Integrate
+            </button>
+            <br />
+            <span id="integrateError" style="color:red; display: none">Unable to proccess. Your equation is empty or your dataset contains invalid or empty data.</span>
+            <span id="boundsError" style="display: none; color: red">Upperbound cannot be less than Lowerbound</span>
+        </div>
+    </div>
+
+    <!-- Component used for displaying notifications -->
+    <div class="MessageBanner" id="notification-popup">
+        <div class="MessageBanner-content">
+            <div class="MessageBanner-text">
+                <div class="MessageBanner-clipper">
+                    <div class="ms-font-m-plus ms-fontWeight-semibold" id="notification-header"></div>
+                    <div class="ms-font-m ms-fontWeight-semilight" id="notification-body"></div>
+                </div>
+            </div>
+            <button class="MessageBanner-expand" style="display:none"><i class="ms-Icon ms-Icon--chevronsDown"></i> </button>
+            <div class="MessageBanner-action"></div>
+        </div>
+        <button class="MessageBanner-close"> <i class="ms-Icon ms-Icon--ChromeClose"></i> </button>
+    </div>
+</body>
+</html>

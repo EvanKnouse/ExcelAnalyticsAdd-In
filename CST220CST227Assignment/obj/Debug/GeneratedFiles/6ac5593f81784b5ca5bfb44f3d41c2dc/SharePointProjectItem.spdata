@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.SharePointOfficeApp" DefaultFile="CST220CST227Assignment.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="CST220CST227Assignment.xml" Target="6ac5593f81784b5ca5bfb44f3d41c2dc\" Type="ElementFile" />
+    <ProjectItemFile Source="Elements.xml" Target="6ac5593f81784b5ca5bfb44f3d41c2dc\" Type="ElementManifest" />
+  </Files>
+  <FeatureActivationDependencies>
+    <FeatureActivationDependency>61e874cd-3ac3-4531-8628-28c3acb78279</FeatureActivationDependency>
+  </FeatureActivationDependencies>
+  <ExtensionData>
+    <ExtensionDataItem Key="OfficeAppManifestRelativePath" Value="6ac5593f81784b5ca5bfb44f3d41c2dc\CST220CST227Assignment.xml" />
+  </ExtensionData>
+</ProjectItem>

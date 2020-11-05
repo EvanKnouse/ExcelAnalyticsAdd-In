@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST220CST227Assignment", "CST220CST227Assignment\CST220CST227Assignment.csproj", "{95C8299B-35B5-4F37-BAD6-5924E91EC843}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CST220CST227AssignmentWeb", "CST220CST227AssignmentWeb\CST220CST227AssignmentWeb.csproj", "{ACED2862-4DBB-450C-9672-A789DADF9E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95C8299B-35B5-4F37-BAD6-5924E91EC843}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{ACED2862-4DBB-450C-9672-A789DADF9E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACED2862-4DBB-450C-9672-A789DADF9E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACED2862-4DBB-450C-9672-A789DADF9E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACED2862-4DBB-450C-9672-A789DADF9E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA9F033-2E75-486A-8E2B-5E16E53F7842}
+	EndGlobalSection
+EndGlobal

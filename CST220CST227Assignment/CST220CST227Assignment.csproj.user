@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <GeneratedFeatureId>ef3c4cfd-db14-44df-9670-38d213c711ae</GeneratedFeatureId>
+    <GeneratedPackageId>b417d7b5-ebcd-4d69-be69-a93a06a7eb46</GeneratedPackageId>
+    <GeneratedModuleId>{ecb90cad-3a38-48ba-8b58-e9fcadb81d7b}</GeneratedModuleId>
+    <GeneratedListId>{3374fd83-5f62-42b5-94ca-9eac2e65ef4a}</GeneratedListId>
+    <GeneratedProductId>{126b9dea-db4b-4e2a-8dce-4a24b4a09537}</GeneratedProductId>
+    <GeneratedAppVersion>1.0.0.0</GeneratedAppVersion>
+    <GeneratedClientSecret>ZOxuEtkbMOrVJ432QYuDpV7UtsbNieKahzAK25rH+P0=</GeneratedClientSecret>
+    <OfficeAndSharePointStartAction>OfficeDesktopClient</OfficeAndSharePointStartAction>
+    <OfficeAppStartDocument>&lt;NewExcelWorkbook&gt;</OfficeAppStartDocument>
+  </PropertyGroup>
+</Project>

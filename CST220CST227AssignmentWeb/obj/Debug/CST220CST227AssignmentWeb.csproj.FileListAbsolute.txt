@@ -1,0 +1,177 @@
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll.config
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.pdb
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe.config
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.rsp
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe.config
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.rsp
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.AppContext.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Console.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Http.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Sockets.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.ValueTuple.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe.config
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.rsp
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CoreCompileInputs.cache
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CopyComplete
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.dll
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.pdb
+C:\COET Projects\CST220CST227Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll.config
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.pdb
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe.config
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.rsp
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe.config
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.rsp
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.AppContext.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Console.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe.config
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.rsp
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CoreCompileInputs.cache
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CopyComplete
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.dll
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.pdb
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll.config
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\CST220CST227AssignmentWeb.pdb
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.exe.config
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csc.rsp
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.exe.config
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\csi.rsp
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.AppContext.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Console.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.exe.config
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\vbc.rsp
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CoreCompileInputs.cache
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.csproj.CopyComplete
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.dll
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227AssignmentWeb\obj\Debug\CST220CST227AssignmentWeb.pdb

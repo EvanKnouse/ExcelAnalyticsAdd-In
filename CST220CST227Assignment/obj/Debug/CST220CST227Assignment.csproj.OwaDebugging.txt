@@ -1,0 +1,7 @@
+False
+ef3c4cfd-db14-44df-9670-38d213c711aeb417d7b5-ebcd-4d69-be69-a93a06a7eb46
+{ecb90cad-3a38-48ba-8b58-e9fcadb81d7b}{3374fd83-5f62-42b5-94ca-9eac2e65ef4a}
+{126b9dea-db4b-4e2a-8dce-4a24b4a09537}
+1.0.0.0
+CST220CST227Assignment
+_layouts/15/

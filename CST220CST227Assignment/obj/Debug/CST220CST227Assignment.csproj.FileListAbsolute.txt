@@ -1,0 +1,6 @@
+C:\COET Projects\CST220CST227Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csproj.CoreCompileInputs.cache
+C:\COET Projects\CST220CST227Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csproj.CoreCompileInputs.cache
+C:\Users\evank\OneDrive\Desktop\COETProject\COETAddIn\COET-Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csprojAssemblyReference.cache
+C:\Users\evank\OneDrive\Desktop\OfficeAdd-In\COET-Assignment\CST220CST227Assignment\obj\Debug\CST220CST227Assignment.csproj.CoreCompileInputs.cache
